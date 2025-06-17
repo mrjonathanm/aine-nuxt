@@ -1,0 +1,9 @@
+# This is a configuration file for Wrangler, the CLI tool for managing Cloudflare Workers.```
+	  {
+	    "name": "worker-name",
+	    "compatibility_date": "2025-06-17",
+	    "assets": {
+	      "directory": "./dist"
+	    }
+	  }
+ # ```
